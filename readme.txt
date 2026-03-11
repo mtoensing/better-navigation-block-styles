@@ -13,7 +13,7 @@ Enhances the default WordPress mobile hamburger menu with improved spacing and r
 
 == Description ==
 
-Better Mobile Menu is a lightweight plugin that refines the appearance and usability of the default WordPress mobile navigation menu. By injecting optimized CSS, it ensures better spacing, alignment, and readability on mobile devices.
+Better Navigation Block Styles is a lightweight plugin that refines the appearance and usability of the default WordPress mobile navigation menu. By injecting optimized CSS, it improves spacing, alignment, and readability on mobile devices.
 
 **Features:**
 
@@ -26,7 +26,7 @@ This plugin is ideal for users who want a quick and effective solution to enhanc
 
 == Installation ==
 
-1. Upload the `better-mobile-menu` folder to the `/wp-content/plugins/` directory.
+1. Upload the `better-navigation-block-styles` folder to the `/wp-content/plugins/` directory.
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 3. The plugin will automatically apply the improved styles to your mobile menu.
 
@@ -40,4 +40,3 @@ This plugin is designed to work with themes that utilize the default WordPress b
 
 = 1.5 =
 * Initial release with improved mobile menu styles.
-
