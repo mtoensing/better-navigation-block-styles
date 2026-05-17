@@ -4,7 +4,7 @@ Donate link: https://marc.tv/out/donate
 Tags: mobile menu, hamburger menu, navigation, responsive, css fix
 Requires at least: 5.0
 Tested up to: 7.0
-Stable tag: 1.5.1
+Stable tag: 1.5.2
 Requires PHP: 7.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -37,6 +37,9 @@ This plugin is ideal for users who want a quick and effective solution to enhanc
 This plugin is designed to work with themes that utilize the default WordPress block-based navigation menu. Compatibility with other themes may vary.
 
 == Changelog ==
+= 1.5.2 =
+* Prepared release for WordPress 7.0 compatibility.
+
 
 = 1.5.1 =
 * Tested up to WordPress 6.9.
